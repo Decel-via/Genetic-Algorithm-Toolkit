@@ -1,0 +1,11 @@
+Job ID,Machine Requirement,Machine Types Allowed,Machine Type Sequence,Operation Time
+J01,10,"['Lathe', 'Grinding']","['Lathe', 'Lathe', 'Lathe', 'Grinding', 'Lathe']","[70, 99, 78, 72, 93]"
+J02,9,"['Milling', 'Lathe', 'Shaping']","['Milling', 'Lathe', 'Shaping', 'Milling', 'Milling']","[49, 92, 78, 26, 24]"
+J03,4,['Milling'],"['Milling', 'Milling', 'Milling', 'Milling', 'Milling']","[57, 92, 25, 22, 68]"
+J04,6,"['Lathe', 'Grinding', 'Shaping', 'Milling']","['Lathe', 'Grinding', 'Shaping', 'Milling', 'Lathe']","[62, 64, 96, 37, 12]"
+J05,7,['Milling'],"['Milling', 'Milling', 'Milling', 'Milling', 'Milling']","[30, 31, 54, 93, 75]"
+J06,9,"['Shaping', 'Milling']","['Shaping', 'Shaping', 'Shaping', 'Milling', 'Milling']","[58, 10, 27, 25, 60]"
+J07,5,"['Lathe', 'Grinding']","['Lathe', 'Grinding', 'Grinding', 'Grinding', 'Lathe']","[43, 50, 65, 40, 82]"
+J08,4,"['Shaping', 'Grinding', 'Lathe']","['Shaping', 'Grinding', 'Grinding', 'Lathe', 'Shaping']","[72, 16, 32, 27, 96]"
+J09,6,"['Lathe', 'Shaping']","['Lathe', 'Shaping', 'Lathe', 'Shaping', 'Shaping']","[53, 96, 81, 88, 19]"
+J10,8,"['Milling', 'Lathe', 'Grinding']","['Milling', 'Lathe', 'Lathe', 'Lathe', 'Grinding']","[31, 27, 37, 74, 68]"

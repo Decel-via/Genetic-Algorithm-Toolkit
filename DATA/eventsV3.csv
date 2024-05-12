@@ -1,0 +1,11 @@
+Job ID,Machine Requirement,Machine Types Allowed,Machine Type Sequence,Operation Time
+E01,3,"['Cleaning Staff', 'Event Coordinators']","['Cleaning Staff', 'Cleaning Staff', 'Event Coordinators', 'Cleaning Staff', 'Event Coordinators']","[59, 99, 16, 57, 46]"
+E02,8,"['Security Personnel', 'Technicians', 'Cleaning Staff', 'Event Coordinators']","['Security Personnel', 'Technicians', 'Cleaning Staff', 'Technicians', 'Event Coordinators']","[80, 54, 77, 93, 10]"
+E03,7,"['Security Personnel', 'Caterers', 'Event Coordinators']","['Security Personnel', 'Caterers', 'Event Coordinators', 'Event Coordinators', 'Security Personnel']","[12, 71, 30, 53, 86]"
+E04,10,"['Event Coordinators', 'Cleaning Staff', 'Security Personnel']","['Event Coordinators', 'Cleaning Staff', 'Cleaning Staff', 'Security Personnel', 'Security Personnel']","[72, 36, 72, 27, 36]"
+E05,10,"['Cleaning Staff', 'Technicians', 'Event Coordinators']","['Cleaning Staff', 'Technicians', 'Technicians', 'Event Coordinators', 'Technicians']","[53, 77, 85, 71, 46]"
+E06,5,"['Cleaning Staff', 'Technicians']","['Cleaning Staff', 'Technicians', 'Technicians', 'Technicians', 'Technicians']","[28, 39, 94, 96, 43]"
+E07,8,"['Cleaning Staff', 'Security Personnel', 'Event Coordinators', 'Technicians']","['Cleaning Staff', 'Security Personnel', 'Event Coordinators', 'Security Personnel', 'Technicians']","[74, 71, 60, 61, 24]"
+E08,7,"['Security Personnel', 'Event Coordinators', 'Cleaning Staff']","['Security Personnel', 'Security Personnel', 'Event Coordinators', 'Cleaning Staff', 'Security Personnel']","[16, 85, 86, 66, 88]"
+E09,8,"['Event Coordinators', 'Caterers', 'Security Personnel']","['Event Coordinators', 'Event Coordinators', 'Caterers', 'Event Coordinators', 'Security Personnel']","[73, 72, 55, 94, 58]"
+E10,6,"['Security Personnel', 'Technicians']","['Security Personnel', 'Security Personnel', 'Security Personnel', 'Security Personnel', 'Technicians']","[54, 94, 49, 99, 34]"

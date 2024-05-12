@@ -1,0 +1,16 @@
+Job conditions:
+0 JobID: must be a string
+1 Machine Requirement: must be a  interger
+
+2 Machine Types Allowed: must be a  List of strings, length of Machines Types allowed must be greater than or equal too Machine requirements
+3 Machine Type Sequence: must be a List of strings,
+ List must only contain the same strings that are in Machine Type Allowed, 
+must contain all of machine type allowed strings
+4 Operation Time: must be a List of integer, length of list must be equal to the length of Machine Type Sequence
+
+Machine conditions:
+0 Machine ID: must be a string
+1 Machine Type: must be a string
+2 Operational Time: must be a  interger
+3 Maintenance Time: must be a  interger
+4 Cool Down Time: must be a  interger

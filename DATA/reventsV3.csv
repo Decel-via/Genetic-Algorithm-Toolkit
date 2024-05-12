@@ -1,0 +1,11 @@
+Job ID,Machine Requirement,Machine Types Allowed,Machine Type Sequence,Operation Time
+E01,9,"['Conference Room', 'AV Equipment']","['Conference Room', 'AV Equipment', 'AV Equipment', 'Conference Room', 'AV Equipment']","[59, 24, 65, 24, 41]"
+E02,3,"['Seating Arrangement', 'Catering Service', 'Decoration']","['Seating Arrangement', 'Catering Service', 'Decoration', 'Seating Arrangement', 'Catering Service']","[77, 65, 10, 57, 78]"
+E03,10,"['Catering Service', 'Decoration', 'Seating Arrangement', 'Conference Room']","['Catering Service', 'Decoration', 'Seating Arrangement', 'Conference Room', 'Seating Arrangement']","[46, 73, 41, 85, 95]"
+E04,7,"['Decoration', 'Catering Service', 'Conference Room']","['Decoration', 'Catering Service', 'Conference Room', 'Conference Room', 'Conference Room']","[86, 39, 16, 44, 47]"
+E05,4,"['Catering Service', 'AV Equipment']","['Catering Service', 'Catering Service', 'Catering Service', 'Catering Service', 'AV Equipment']","[32, 67, 67, 99, 13]"
+E06,10,"['Decoration', 'Seating Arrangement', 'Conference Room', 'AV Equipment']","['Decoration', 'Seating Arrangement', 'Seating Arrangement', 'Conference Room', 'AV Equipment']","[27, 42, 72, 13, 58]"
+E07,3,"['Conference Room', 'Catering Service']","['Conference Room', 'Conference Room', 'Catering Service', 'Catering Service', 'Conference Room']","[59, 40, 55, 44, 99]"
+E08,3,"['AV Equipment', 'Catering Service']","['AV Equipment', 'Catering Service', 'AV Equipment', 'AV Equipment', 'Catering Service']","[45, 88, 62, 39, 93]"
+E09,6,"['Conference Room', 'Decoration', 'AV Equipment']","['Conference Room', 'Decoration', 'AV Equipment', 'AV Equipment', 'Decoration']","[82, 32, 52, 90, 88]"
+E10,3,"['Seating Arrangement', 'Decoration']","['Seating Arrangement', 'Decoration', 'Seating Arrangement', 'Decoration', 'Seating Arrangement']","[67, 43, 44, 44, 50]"

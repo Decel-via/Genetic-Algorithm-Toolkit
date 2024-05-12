@@ -1,0 +1,301 @@
+Machine ID,Machine Type,Operational Time,Maintenance Time,Cool Down Time
+W001,Technicians,36,0,0
+W002,Security Personnel,46,0,0
+W003,Security Personnel,46,0,0
+W004,Technicians,21,0,0
+W005,Event Coordinators,31,0,0
+W006,Caterers,42,0,0
+W007,Caterers,38,0,0
+W008,Event Coordinators,20,0,0
+W009,Security Personnel,26,0,0
+W010,Cleaning Staff,50,0,0
+W011,Technicians,28,0,0
+W012,Technicians,48,0,0
+W013,Event Coordinators,21,0,0
+W014,Caterers,38,0,0
+W015,Technicians,28,0,0
+W016,Caterers,50,0,0
+W017,Cleaning Staff,45,0,0
+W018,Security Personnel,28,0,0
+W019,Technicians,20,0,0
+W020,Cleaning Staff,29,0,0
+W021,Security Personnel,33,0,0
+W022,Caterers,27,0,0
+W023,Technicians,43,0,0
+W024,Technicians,39,0,0
+W025,Technicians,31,0,0
+W026,Cleaning Staff,46,0,0
+W027,Technicians,20,0,0
+W028,Cleaning Staff,35,0,0
+W029,Security Personnel,37,0,0
+W030,Caterers,27,0,0
+W031,Security Personnel,33,0,0
+W032,Technicians,27,0,0
+W033,Cleaning Staff,26,0,0
+W034,Cleaning Staff,31,0,0
+W035,Technicians,27,0,0
+W036,Security Personnel,41,0,0
+W037,Technicians,40,0,0
+W038,Security Personnel,41,0,0
+W039,Caterers,48,0,0
+W040,Event Coordinators,48,0,0
+W041,Event Coordinators,42,0,0
+W042,Cleaning Staff,26,0,0
+W043,Cleaning Staff,29,0,0
+W044,Event Coordinators,48,0,0
+W045,Caterers,47,0,0
+W046,Technicians,20,0,0
+W047,Event Coordinators,45,0,0
+W048,Security Personnel,44,0,0
+W049,Event Coordinators,33,0,0
+W050,Security Personnel,47,0,0
+W051,Caterers,46,0,0
+W052,Caterers,44,0,0
+W053,Security Personnel,35,0,0
+W054,Event Coordinators,46,0,0
+W055,Event Coordinators,36,0,0
+W056,Cleaning Staff,20,0,0
+W057,Event Coordinators,41,0,0
+W058,Security Personnel,29,0,0
+W059,Technicians,44,0,0
+W060,Event Coordinators,24,0,0
+W061,Technicians,27,0,0
+W062,Caterers,29,0,0
+W063,Technicians,33,0,0
+W064,Event Coordinators,35,0,0
+W065,Caterers,48,0,0
+W066,Technicians,28,0,0
+W067,Security Personnel,41,0,0
+W068,Caterers,46,0,0
+W069,Security Personnel,45,0,0
+W070,Caterers,22,0,0
+W071,Technicians,26,0,0
+W072,Event Coordinators,36,0,0
+W073,Technicians,46,0,0
+W074,Cleaning Staff,33,0,0
+W075,Event Coordinators,31,0,0
+W076,Caterers,34,0,0
+W077,Caterers,47,0,0
+W078,Caterers,31,0,0
+W079,Event Coordinators,42,0,0
+W080,Technicians,38,0,0
+W081,Cleaning Staff,42,0,0
+W082,Caterers,44,0,0
+W083,Event Coordinators,20,0,0
+W084,Technicians,46,0,0
+W085,Security Personnel,41,0,0
+W086,Caterers,44,0,0
+W087,Cleaning Staff,33,0,0
+W088,Cleaning Staff,42,0,0
+W089,Caterers,21,0,0
+W090,Security Personnel,35,0,0
+W091,Technicians,44,0,0
+W092,Cleaning Staff,28,0,0
+W093,Caterers,41,0,0
+W094,Security Personnel,22,0,0
+W095,Technicians,40,0,0
+W096,Cleaning Staff,20,0,0
+W097,Security Personnel,33,0,0
+W098,Caterers,38,0,0
+W099,Event Coordinators,21,0,0
+W100,Technicians,29,0,0
+W101,Cleaning Staff,42,0,0
+W102,Caterers,26,0,0
+W103,Technicians,23,0,0
+W104,Technicians,25,0,0
+W105,Event Coordinators,45,0,0
+W106,Security Personnel,27,0,0
+W107,Technicians,24,0,0
+W108,Security Personnel,39,0,0
+W109,Technicians,39,0,0
+W110,Cleaning Staff,25,0,0
+W111,Event Coordinators,49,0,0
+W112,Security Personnel,47,0,0
+W113,Caterers,37,0,0
+W114,Caterers,35,0,0
+W115,Technicians,22,0,0
+W116,Caterers,48,0,0
+W117,Caterers,35,0,0
+W118,Technicians,43,0,0
+W119,Technicians,34,0,0
+W120,Caterers,36,0,0
+W121,Event Coordinators,30,0,0
+W122,Event Coordinators,41,0,0
+W123,Security Personnel,30,0,0
+W124,Technicians,22,0,0
+W125,Security Personnel,47,0,0
+W126,Security Personnel,46,0,0
+W127,Security Personnel,24,0,0
+W128,Security Personnel,32,0,0
+W129,Security Personnel,43,0,0
+W130,Security Personnel,50,0,0
+W131,Technicians,30,0,0
+W132,Caterers,41,0,0
+W133,Event Coordinators,43,0,0
+W134,Cleaning Staff,49,0,0
+W135,Security Personnel,23,0,0
+W136,Caterers,22,0,0
+W137,Caterers,49,0,0
+W138,Cleaning Staff,36,0,0
+W139,Event Coordinators,42,0,0
+W140,Technicians,44,0,0
+W141,Cleaning Staff,36,0,0
+W142,Event Coordinators,45,0,0
+W143,Caterers,20,0,0
+W144,Technicians,34,0,0
+W145,Technicians,37,0,0
+W146,Cleaning Staff,28,0,0
+W147,Caterers,41,0,0
+W148,Caterers,20,0,0
+W149,Cleaning Staff,22,0,0
+W150,Caterers,20,0,0
+W151,Event Coordinators,47,0,0
+W152,Security Personnel,39,0,0
+W153,Event Coordinators,29,0,0
+W154,Security Personnel,50,0,0
+W155,Event Coordinators,29,0,0
+W156,Caterers,34,0,0
+W157,Event Coordinators,41,0,0
+W158,Security Personnel,28,0,0
+W159,Cleaning Staff,39,0,0
+W160,Caterers,35,0,0
+W161,Security Personnel,48,0,0
+W162,Security Personnel,25,0,0
+W163,Event Coordinators,34,0,0
+W164,Caterers,43,0,0
+W165,Event Coordinators,34,0,0
+W166,Technicians,33,0,0
+W167,Technicians,37,0,0
+W168,Caterers,43,0,0
+W169,Security Personnel,24,0,0
+W170,Technicians,22,0,0
+W171,Event Coordinators,40,0,0
+W172,Security Personnel,39,0,0
+W173,Event Coordinators,29,0,0
+W174,Event Coordinators,24,0,0
+W175,Security Personnel,46,0,0
+W176,Caterers,37,0,0
+W177,Technicians,36,0,0
+W178,Caterers,38,0,0
+W179,Event Coordinators,49,0,0
+W180,Caterers,27,0,0
+W181,Event Coordinators,38,0,0
+W182,Security Personnel,48,0,0
+W183,Caterers,41,0,0
+W184,Cleaning Staff,48,0,0
+W185,Technicians,49,0,0
+W186,Event Coordinators,42,0,0
+W187,Cleaning Staff,44,0,0
+W188,Technicians,23,0,0
+W189,Caterers,40,0,0
+W190,Cleaning Staff,20,0,0
+W191,Caterers,30,0,0
+W192,Event Coordinators,23,0,0
+W193,Caterers,37,0,0
+W194,Caterers,44,0,0
+W195,Security Personnel,23,0,0
+W196,Cleaning Staff,22,0,0
+W197,Technicians,44,0,0
+W198,Event Coordinators,28,0,0
+W199,Cleaning Staff,31,0,0
+W200,Security Personnel,21,0,0
+W201,Event Coordinators,21,0,0
+W202,Technicians,20,0,0
+W203,Caterers,36,0,0
+W204,Technicians,50,0,0
+W205,Technicians,49,0,0
+W206,Technicians,46,0,0
+W207,Event Coordinators,25,0,0
+W208,Event Coordinators,49,0,0
+W209,Cleaning Staff,48,0,0
+W210,Technicians,49,0,0
+W211,Technicians,34,0,0
+W212,Security Personnel,46,0,0
+W213,Caterers,44,0,0
+W214,Technicians,36,0,0
+W215,Security Personnel,45,0,0
+W216,Event Coordinators,26,0,0
+W217,Technicians,33,0,0
+W218,Security Personnel,45,0,0
+W219,Security Personnel,42,0,0
+W220,Technicians,47,0,0
+W221,Event Coordinators,46,0,0
+W222,Security Personnel,26,0,0
+W223,Caterers,22,0,0
+W224,Cleaning Staff,21,0,0
+W225,Event Coordinators,40,0,0
+W226,Security Personnel,49,0,0
+W227,Cleaning Staff,38,0,0
+W228,Security Personnel,23,0,0
+W229,Caterers,33,0,0
+W230,Cleaning Staff,29,0,0
+W231,Security Personnel,24,0,0
+W232,Caterers,22,0,0
+W233,Security Personnel,27,0,0
+W234,Event Coordinators,32,0,0
+W235,Technicians,40,0,0
+W236,Caterers,42,0,0
+W237,Cleaning Staff,44,0,0
+W238,Technicians,33,0,0
+W239,Technicians,20,0,0
+W240,Security Personnel,32,0,0
+W241,Technicians,48,0,0
+W242,Caterers,35,0,0
+W243,Caterers,24,0,0
+W244,Technicians,44,0,0
+W245,Technicians,37,0,0
+W246,Technicians,47,0,0
+W247,Event Coordinators,39,0,0
+W248,Cleaning Staff,33,0,0
+W249,Cleaning Staff,26,0,0
+W250,Security Personnel,38,0,0
+W251,Technicians,25,0,0
+W252,Event Coordinators,40,0,0
+W253,Security Personnel,25,0,0
+W254,Security Personnel,43,0,0
+W255,Event Coordinators,39,0,0
+W256,Cleaning Staff,44,0,0
+W257,Caterers,50,0,0
+W258,Caterers,35,0,0
+W259,Security Personnel,49,0,0
+W260,Technicians,23,0,0
+W261,Security Personnel,48,0,0
+W262,Security Personnel,23,0,0
+W263,Event Coordinators,41,0,0
+W264,Event Coordinators,25,0,0
+W265,Technicians,36,0,0
+W266,Security Personnel,27,0,0
+W267,Technicians,25,0,0
+W268,Security Personnel,45,0,0
+W269,Security Personnel,44,0,0
+W270,Event Coordinators,37,0,0
+W271,Caterers,36,0,0
+W272,Caterers,37,0,0
+W273,Caterers,38,0,0
+W274,Event Coordinators,37,0,0
+W275,Event Coordinators,42,0,0
+W276,Event Coordinators,28,0,0
+W277,Technicians,38,0,0
+W278,Technicians,24,0,0
+W279,Security Personnel,26,0,0
+W280,Cleaning Staff,50,0,0
+W281,Caterers,48,0,0
+W282,Caterers,38,0,0
+W283,Event Coordinators,48,0,0
+W284,Technicians,38,0,0
+W285,Security Personnel,30,0,0
+W286,Security Personnel,23,0,0
+W287,Security Personnel,38,0,0
+W288,Security Personnel,38,0,0
+W289,Security Personnel,47,0,0
+W290,Event Coordinators,25,0,0
+W291,Cleaning Staff,30,0,0
+W292,Technicians,37,0,0
+W293,Caterers,37,0,0
+W294,Cleaning Staff,42,0,0
+W295,Cleaning Staff,48,0,0
+W296,Technicians,44,0,0
+W297,Caterers,42,0,0
+W298,Cleaning Staff,26,0,0
+W299,Security Personnel,48,0,0
+W300,Cleaning Staff,22,0,0
