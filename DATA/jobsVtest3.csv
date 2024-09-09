@@ -1,16 +1,3 @@
-Job ID,Machine Requirement,Machine Types Allowed,Machine Type Sequence,Operation Time
-J01,5,"['Shaping', 'Lathe']","['Shaping', 'Shaping', 'Shaping', 'Shaping', 'Lathe']","[44, 100, 50, 20, 51]"
-J02,7,"['Milling', 'Grinding']","['Milling', 'Milling', 'Milling', 'Grinding', 'Milling']","[87, 31, 81, 26, 10]"
-J03,7,"['Milling', 'Lathe', 'Shaping', 'Drilling']","['Milling', 'Lathe', 'Shaping', 'Drilling', 'Milling']","[58, 40, 30, 32, 89]"
-J04,7,"['Lathe', 'Shaping', 'Grinding', 'Milling']","['Lathe', 'Shaping', 'Grinding', 'Lathe', 'Milling']","[24, 44, 52, 65, 47]"
-J05,3,"['Grinding', 'Milling']","['Grinding', 'Grinding', 'Milling', 'Grinding', 'Milling']","[32, 85, 72, 19, 53]"
-J06,7,"['Shaping', 'Lathe']","['Shaping', 'Lathe', 'Shaping', 'Lathe', 'Shaping']","[49, 45, 61, 43, 53]"
-J07,6,"['Shaping', 'Grinding']","['Shaping', 'Grinding', 'Shaping', 'Shaping', 'Grinding']","[57, 23, 44, 83, 91]"
-J08,3,"['Lathe', 'Grinding']","['Lathe', 'Grinding', 'Lathe', 'Grinding', 'Grinding']","[92, 62, 47, 90, 56]"
-J09,3,"['Lathe', 'Drilling']","['Lathe', 'Drilling', 'Lathe', 'Lathe', 'Drilling']","[55, 28, 69, 10, 75]"
-J10,6,"['Drilling', 'Shaping', 'Lathe']","['Drilling', 'Drilling', 'Shaping', 'Lathe', 'Drilling']","[50, 81, 62, 17, 34]"
-J11,5,"['Milling', 'Shaping', 'Drilling']","['Milling', 'Shaping', 'Shaping', 'Shaping', 'Drilling']","[94, 37, 45, 12, 25]"
-J12,7,"['Drilling', 'Lathe', 'Grinding']","['Drilling', 'Lathe', 'Lathe', 'Drilling', 'Grinding']","[81, 20, 96, 71, 32]"
-J13,6,"['Shaping', 'Lathe', 'Drilling']","['Shaping', 'Lathe', 'Shaping', 'Drilling', 'Drilling']","[39, 66, 59, 17, 33]"
-J14,6,"['Grinding', 'Milling', 'Lathe', 'Shaping']","['Grinding', 'Milling', 'Lathe', 'Shaping', 'Milling']","[44, 52, 11, 33, 92]"
-J15,5,['Shaping'],"['Shaping', 'Shaping', 'Shaping', 'Shaping', 'Shaping']","[37, 51, 24, 85, 22]"
+version https://git-lfs.github.com/spec/v1
+oid sha256:f02bc0395031ed8f6d3ba824d07ae288e1b5aab331f9900783fc9d4f1fc7a44f
+size 1864
