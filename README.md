@@ -1,8 +1,3 @@
-# Let's create the README.md and the necessary files in a zip structure.
-import zipfile
-
-# Define file content for README.md
-readme_content = """
 # Multi-Objective Genetic Algorithm for Complex Job Shop Scheduling
 
 ## Project Overview
